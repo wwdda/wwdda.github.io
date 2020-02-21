@@ -24,8 +24,9 @@ projects:
   limit: 9
   exclude:
     archived: false
-    forks: true
+    forks: false
     projects:
+      - wwdda.github.io
     # - repo-name
 
 social_media:
