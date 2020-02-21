@@ -28,12 +28,12 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+    facebook: 100022567502246
   # hackerrank: your_username
-  # instagram: your_username
+    instagram: andywwway
   # keybase: your_username
   # linkedin: your_username
   # mastodon: your_username
@@ -44,7 +44,7 @@ projects:
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+    youtube: channel/UC6B8cN7vJp5lQrMv4QIB-tQ
 
 topics:
   - name: CSS
