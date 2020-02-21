@@ -43,16 +43,18 @@ social_media:
   # twitter: your_username
   # unsplash: your_username
   # vk: your_username
-  # website: http://your_website_url
     youtube: channel/UC6B8cN7vJp5lQrMv4QIB-tQ
+  # website: http://vsco.co/andywwway
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Running
+    web_url: https://show.gotokeep.com/users/5d98d22855bcc461489deed4?utm_source=others&utm_medium=web&utm_campaign=client_share&utm_term=&utm_content=users
+    image_url: https://lh3.googleusercontent.com/Zsc17ltI4JkNwza03LnqXn9R-Bo2dLAvQ973F5kXZBmM3l9eaA4WbIIqt9bg6oA2VA
 
-  - name: Web design
+  - name: Photography
+    web_url: http://vsco.co/andywwway
+    image_url: https://image.flaticon.com/icons/svg/356/356039.svg
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: Algorithm
+    web_url: https://github.com/topics/algorithm
+    image_url: https://www.npmarketing.com.au/wp-content/uploads/2018/05/icon_NP.png
